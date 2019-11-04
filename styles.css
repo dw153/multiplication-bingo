@@ -1,0 +1,67 @@
+#options-box {
+    background-color: #6fcd58;
+    border-radius: 20px;
+    font-family: "Montserrat", sans-serif;
+    margin: auto;
+    width: 600px;
+    margin-top: 40px;
+    padding: 25px;
+}
+
+#options-box h1 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+#options-box h2 {
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#options-box.error {
+    background-color: #dc3545;
+    text-align: center;
+}
+
+.step {
+    background-color: white;
+    border-radius: 50%;
+    font-size: 30px;
+    color: #6fcd58;
+    vertical-align: middle;
+    padding: 5px 15px;
+    margin-right: 10px
+}
+
+.form-group {
+    padding-bottom: 40px;
+}
+
+.form-col {
+    margin: 10px;
+    text-align: center;
+    color: white;
+}
+
+table {
+    border: 3px solid black;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    width: 100%;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+.bottom30 {
+    padding-bottom: 30px;
+}
+
+.top20 {
+    padding-top: 20px;
+}
